@@ -60,6 +60,7 @@ Fibonacci-teaser/src
    ```
 8. Crée une **pull request** sur le dépôt principal et assigne moi cela.
 9. Créer ton fork après pour avoir une copie dans ton espace dans ton espace
+10. N'oublie pas de me laisser une étoile (star) 
 
 ## 📜 Langages disponibles
 
