@@ -43,7 +43,7 @@ Fibonacci-teaser/src
 1. **Fork** ce dépôt.
 2. Clone le projet localement :
    ```sh
-   git clone https://github.com/Epiphane-semassa/Fibonacci-teaser.git
+   git clone https://github.com/Epiphane-semassa/fibonacci-teaser.git
    ```
 3. Crée une nouvelle branche :
    ```sh
