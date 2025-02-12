@@ -41,9 +41,9 @@ Fibonacci-teaser/src
 ## 🚀 Comment contribuer ?
 
 1. **Fork** ce dépôt.
-2. Clone ton fork localement :
+2. Clone le projet localement :
    ```sh
-   git clone https://github.com/tonpseudo/Fibonacci-teaser.git
+   git clone https://github.com/Epiphane-semassa/Fibonacci-teaser.git
    ```
 3. Crée une nouvelle branche :
    ```sh
@@ -58,7 +58,8 @@ Fibonacci-teaser/src
    git commit -m "Ajout de Fibonacci en NOM_DU_LANGAGE"
    git push origin ajout-langage-NOM_DU_LANGAGE
    ```
-8. Crée une **pull request** sur le dépôt principal.
+8. Crée une **pull request** sur le dépôt principal et assigne moi cela.
+9. Créer ton fork après pour avoir une copie dans ton espace dans ton espace
 
 ## 📜 Langages disponibles
 
