@@ -25,7 +25,7 @@ Chaque langage a son propre dossier nommé d'après le langage de programmation 
 Exemple de structure :
 
 ```
-Fibonacci-teaser/
+Fibonacci-teaser/src
 │── Python/
 │   ├── fibonacci.py
 │   ├── test.md
