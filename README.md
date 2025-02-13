@@ -72,7 +72,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - AWK
 - Bash
 - BASIC
-- C
+- C ✅
 - C++
 - C#
 - COBOL
@@ -87,7 +87,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Groovy
 - Haskell
 - Java ✅
-- JavaScript
+- JavaScript ✅
 - Julia
 - Kotlin
 - Lisp
