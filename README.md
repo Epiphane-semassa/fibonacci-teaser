@@ -86,7 +86,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Go
 - Groovy
 - Haskell
-- Java
+- Java ✅
 - JavaScript
 - Julia
 - Kotlin
@@ -99,7 +99,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Perl
 - PHP
 - Prolog
-- Python
+- Python ✅
 - R
 - Ruby
 - Rust
@@ -108,7 +108,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Shell
 - Smalltalk
 - Swift
-- TypeScript
+- TypeScript ✅
 - VHDL
 - Visual Basic
 
