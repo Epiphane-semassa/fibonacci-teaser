@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdint.h>
+int fibonacciRecursive(int);
+int fibonacciIterative(int);
+
+int main(int){
+    int n = 10 ;
+    int answer1 = fibonacciRecursive(n);
+    int answer2 = fibonacciIterative(n);
+
+    printf("Fibonacci recursif (%d) : %d \n", n, answer1);
+    printf("Fibonacci iteratif (%d) : %d \n",n,answer2);
+    return 0;
+};
+
+int fibonacciRecursive(int n) {
+    if (n <= 0) return 0;
+    if (n == 1) return 1;
+    return fibonacciRecursive(n - 1) + fibonacciRecursive(n - 2);
+};
+int fibonacciIterative(int n) {
+    if (n <= 0) return 0;
+    if (n == 1) return 1;
+
+    int a = 0, b = 1;
+    for (int i = 2; i <= n; i++) {
+        int temp = a + b;
+        a = b;
+        b = temp;
+    }
+    return b;
+};
