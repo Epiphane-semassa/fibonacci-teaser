@@ -40,10 +40,10 @@ Fibonacci-teaser/src
 
 ## 🚀 Comment contribuer ?
 
-1. **Fork** ce dépôt.
-2. Clone le projet localement :
+1. **Fork** ce dépôt dans ton espace.
+2. Clone le fork du projet localement :
    ```sh
-   git clone https://github.com/Epiphane-semassa/fibonacci-teaser.git
+   git clone https://github.com/your_username/fibonacci-teaser.git
    ```
 3. Crée une nouvelle branche :
    ```sh
@@ -59,8 +59,8 @@ Fibonacci-teaser/src
    git push origin ajout-langage-NOM_DU_LANGAGE
    ```
 8. Crée une **pull request** sur le dépôt principal et assigne moi cela.
-9. Créer ton fork après pour avoir une copie dans ton espace dans ton espace
-10. N'oublie pas de me laisser une étoile (star) 
+9. N'oublie pas de me laisser une étoile (star) et de t'abonner à mon compte pour plus de projets opensource
+10. Sélectionne le issue correspondant à ton langage et démarre une conversation en me taguant pour que je te l'assigne
 
 ## 📜 Langages disponibles
 
@@ -72,7 +72,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - AWK
 - Bash
 - BASIC
-- C
+- C ✅
 - C++
 - C#
 - COBOL
@@ -87,7 +87,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Groovy
 - Haskell
 - Java ✅
-- JavaScript
+- JavaScript ✅
 - Julia
 - Kotlin
 - Lisp
