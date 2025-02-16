@@ -97,7 +97,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Objective-C
 - Pascal
 - Perl
-- PHP
+- PHP ✅
 - Prolog
 - Python ✅
 - R
