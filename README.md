@@ -74,7 +74,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - BASIC
 - C ✅
 - C++
-- C#
+- C# ✅
 - COBOL
 - Crystal
 - Dart
