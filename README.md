@@ -77,7 +77,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - C# ✅
 - COBOL
 - Crystal
-- Dart
+- Dart ✅
 - Delphi
 - Elixir
 - Erlang
@@ -89,7 +89,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Java ✅
 - JavaScript ✅
 - Julia
-- Kotlin
+- Kotlin 
 - Lisp
 - Lua
 - MATLAB
