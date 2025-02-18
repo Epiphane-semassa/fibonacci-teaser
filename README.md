@@ -101,7 +101,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Prolog
 - Python ✅
 - R
-- Ruby
+- Ruby ✅
 - Rust
 - Scala
 - Scheme
