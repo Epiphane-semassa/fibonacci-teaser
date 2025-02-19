@@ -73,7 +73,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Bash
 - BASIC
 - C ✅
-- C++
+- C++ ✅
 - C# ✅
 - COBOL
 - Crystal
