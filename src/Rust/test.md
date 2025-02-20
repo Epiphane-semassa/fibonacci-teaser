@@ -1,0 +1,1 @@
+[Tester ce code en ligne](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=2fec330dcd754ffcb22e5bc8242269b4)
