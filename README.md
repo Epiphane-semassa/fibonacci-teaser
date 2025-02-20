@@ -107,7 +107,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Scheme
 - Shell
 - Smalltalk
-- SQL
+- SQL ✅
 - Swift
 - TypeScript ✅
 - VHDL
