@@ -86,6 +86,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Go
 - Groovy
 - Haskell
+- Haxe
 - Java ✅
 - JavaScript ✅
 - Julia
