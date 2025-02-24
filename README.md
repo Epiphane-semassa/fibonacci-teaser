@@ -83,13 +83,13 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Erlang
 - F#
 - Fortran
-- Go
+- Go ✅
 - Groovy
 - Haskell
 - Haxe
 - Java ✅
 - JavaScript ✅
-- Julia
+- Julia ✅
 - Kotlin ✅
 - Lisp
 - Lua
