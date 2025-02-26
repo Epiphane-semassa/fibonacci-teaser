@@ -32,8 +32,40 @@ function fibonacci_iterative {
     return $b
 }
 
+# fibonacci with memoization
+function fibonacci_memoization {
+    param (
+        [int]$n
+    )
+
+    $memo = @{}
+
+    function fibonacci_inner {
+        param (
+            [int]$n
+        )
+
+        if ($n -eq 0) {
+            return 0
+        } elseif ($n -eq 1) {
+            return 1
+        }
+
+        if ($memo.ContainsKey($n)) {
+            return $memo[$n]
+        }
+
+        $result = (fibonacci_inner ($n - 1)) + (fibonacci_inner ($n - 2))
+        $memo[$n] = $result
+        return $result
+    }
+
+    return (fibonacci_inner $n)
+}
+
 # demo
 $n = 10  # fibonacci of 10 should = 55
 
 Write-Host ("Fibonacci iterative ($n) : " + (fibonacci_iterative $n))
+Write-Host ("Fibonacci memoization ($n) : " + (fibonacci_memoization $n))
 Write-Host ("Fibonacci recursive ($n) : " + (fibonacci_recursive $n))
