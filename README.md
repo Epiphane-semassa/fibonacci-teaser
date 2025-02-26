@@ -99,6 +99,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Pascal
 - Perl
 - PHP ✅
+- PowerShell ✅
 - Prolog
 - Python ✅
 - R
