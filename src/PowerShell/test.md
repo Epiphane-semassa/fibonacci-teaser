@@ -1,6 +1,1 @@
-https://learn.microsoft.com/fr-fr/powershell/scripting/install/install-ubuntu?view=powershell-7.5#installation-via-package-repository-the-package-repository
-
-````sh
-pwsh
-./fibonacci.ps1
-````
+[Try it online!](https://tio.run/##xZTdasIwFMfv8xQHzUVLcejAmw1hMBiDPcAuREatKQbaxKXpZBOfvTsn7drMVt3dcmGTc/75Jecj7vRemGIrsqyqxmBEUppCfghI5VqrOEkkS0uVWKlVZ3rrZAcGOHaxiXMI3JzGUiq74sqtQ/crUwi4gol4h2nY7KJhhC2NgqkzHEFkhfCkswHprJYyzxQM3cwxkBBCdElwG4bsyNgYpBUmtldD72T/F7r78BgWzWa@xmntTLVBhKT1PeB3klngiqZR5BO5FfkOVUiJcH9nJ6q/JrQT99OOMpe5Njmwl3YLuci1/Iopb0MJ9Nx/SmEdIe3CmzwcmuiHKqOUMF6Ip9hTtIe/VKZeqa6Xq1cyr2ztURTRzaNWNpaqeBGfSArPQJx2ydVqCMaNKEqs8sLv8joXZ56A76T2b0k/x1DJa@ppB/rm5g79N1jzMZy6PTZIZXgYtuQUwG8XnZKp2Ooy26B7Pmfs1eADmzzrwkIwemqV3aujNMEdjE5Cav2UxXMUv/WGOb7iEunXv8gAp/MTpaq@AQ "PowerShell – Try It Online")
