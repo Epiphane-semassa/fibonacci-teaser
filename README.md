@@ -85,7 +85,7 @@ Voici la liste complète des langages actuellement implémentés, classés par o
 - Fortran
 - Go ✅
 - Groovy
-- Haskell
+- Haskell ✅
 - Haxe ✅
 - Java ✅
 - JavaScript ✅
